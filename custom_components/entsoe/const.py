@@ -172,5 +172,5 @@ AREA_INFO = {
     #  "ME":{"code":"ME", "name":"Montenegro", "VAT":0.21, "Currency":"EUR"},
     #  "MK":{"code":"MK", "name":"North Macedonia", "VAT":0.21, "Currency":"EUR"},
     #  "TR":{"code":"TR", "name":"Turkey", "VAT":0.21, "Currency":"EUR"},
-    #  "UA":{"code":"UA", "name":"Ukraine", "VAT":0.21, "Currency":"EUR"},
+    "UA":{"code":"UA", "name":"Ukraine", "VAT":0.21, "Currency":"UAH"},
 }
